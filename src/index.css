@@ -11,15 +11,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-body::-webkit-scrollbar {
+.nft-wrapper::-webkit-scrollbar {
   width: 6px;
 }
 
-body::-webkit-scrollbar-track {
+.nft-wrapper::-webkit-scrollbar-track {
   background: #181f35;
 }
 
-body::-webkit-scrollbar-thumb {
+.nft-wrapper::-webkit-scrollbar-thumb {
   background: #98a2ac;
   border-radius: 3px;
 }
